@@ -3,6 +3,6 @@
 - @designbyjuan
 - 2014/07/28
 - 
-- draft
+- published
 
 This is a test post
